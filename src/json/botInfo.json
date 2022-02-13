@@ -1,9 +1,9 @@
 {
   "botname": "Zacros Bot",
   "ownerNumber": [
-    "YOUR NUMBER"
+    "60102810046"
   ],
-  "website": "https://zacros.my.id/",
+  "website": "https://s.id/yoaiman",
   "settings": {
     "callBlock": true,
     "autoRead": true
@@ -12,7 +12,7 @@
     "zacros": "https://api.zacros.my.id"
   },
   "thumb": "https://i.pinimg.com/736x/64/7d/f2/647df293f9d2e552ccae82450785838c.jpg",
-  "footerText": "© Zacros Team",
+  "footerText": "© Aiman",
   "prefix": [
     ".",
     "!",
@@ -22,7 +22,7 @@
     "+",
     ","
   ],
-  "ownername": "Zacros Team",
+  "ownername": "Aiman",
   "unicode": {
     "head": "⬣",
     "list": "⬡",
